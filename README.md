@@ -46,6 +46,9 @@ Before you begin, make sure you have the following installed on your machine:
    docker compose watch
     ```
 
+   This command will watch for changes in the frontend and backend folders and rebuild the Docker images and restart the
+   containers.
+
 ## Stopping the Application
 
 To stop the application and remove the containers, run the following command in the project root:
